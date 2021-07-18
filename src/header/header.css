@@ -1,0 +1,22 @@
+.header-section {
+    height: 400px;
+    background: burlywood
+}
+.post-offer-button{
+    background: blue;
+    color: white;
+}
+.header-title{
+    color: white;
+    font-weight: bold;
+    font-size: x-large;
+}
+.header-main{
+    color: white;
+    font-size: small;
+}
+.header-button{
+    width: fit-content;
+    border-radius: 8px;
+    background-color: #2C71F9;
+}
