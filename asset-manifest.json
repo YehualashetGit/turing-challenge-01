@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/turing-challenge-01/static/css/main.0bffa851.chunk.css",
-    "main.js": "/turing-challenge-01/static/js/main.5eaa3351.chunk.js",
-    "main.js.map": "/turing-challenge-01/static/js/main.5eaa3351.chunk.js.map",
-    "runtime-main.js": "/turing-challenge-01/static/js/runtime-main.7378db88.js",
-    "runtime-main.js.map": "/turing-challenge-01/static/js/runtime-main.7378db88.js.map",
-    "static/js/2.a083428c.chunk.js": "/turing-challenge-01/static/js/2.a083428c.chunk.js",
-    "static/js/2.a083428c.chunk.js.map": "/turing-challenge-01/static/js/2.a083428c.chunk.js.map",
-    "index.html": "/turing-challenge-01/index.html",
-    "static/css/main.0bffa851.chunk.css.map": "/turing-challenge-01/static/css/main.0bffa851.chunk.css.map",
-    "static/js/2.a083428c.chunk.js.LICENSE.txt": "/turing-challenge-01/static/js/2.a083428c.chunk.js.LICENSE.txt"
+    "main.css": "/turing-challenge-01/build/static/css/main.0bffa851.chunk.css",
+    "main.js": "/turing-challenge-01/build/static/js/main.5eaa3351.chunk.js",
+    "main.js.map": "/turing-challenge-01/build/static/js/main.5eaa3351.chunk.js.map",
+    "runtime-main.js": "/turing-challenge-01/build/static/js/runtime-main.1c06e250.js",
+    "runtime-main.js.map": "/turing-challenge-01/build/static/js/runtime-main.1c06e250.js.map",
+    "static/js/2.a083428c.chunk.js": "/turing-challenge-01/build/static/js/2.a083428c.chunk.js",
+    "static/js/2.a083428c.chunk.js.map": "/turing-challenge-01/build/static/js/2.a083428c.chunk.js.map",
+    "index.html": "/turing-challenge-01/build/index.html",
+    "static/css/main.0bffa851.chunk.css.map": "/turing-challenge-01/build/static/css/main.0bffa851.chunk.css.map",
+    "static/js/2.a083428c.chunk.js.LICENSE.txt": "/turing-challenge-01/build/static/js/2.a083428c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7378db88.js",
+    "static/js/runtime-main.1c06e250.js",
     "static/js/2.a083428c.chunk.js",
     "static/css/main.0bffa851.chunk.css",
     "static/js/main.5eaa3351.chunk.js"
