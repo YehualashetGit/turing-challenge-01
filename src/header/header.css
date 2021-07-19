@@ -1,6 +1,8 @@
+.header {
+    background-image: url("../assets/wide-image.jpeg") ;
+}
 .header-section {
     height: 400px;
-    background: burlywood
 }
 .post-offer-button{
     background: blue;
