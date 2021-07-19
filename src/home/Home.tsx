@@ -37,8 +37,8 @@ const Home = () => {
                 <p className="text-3xl font-bold">Newest Job Offers</p>
                 <div className="flex">
                     <p className="view-offer mr-2">View all Job offers</p>
-                    <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
+                    <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6 shadow" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3"/>
                     </svg>
                 </div>
 
@@ -83,7 +83,7 @@ const OfferCard = (props: IOfferProps) => {
             <p className="text-sm">{props.description}</p>
         </div>
         <div className="w-full">
-            <svg xmlns="http://www.w3.org/2000/svg" className="left-arrow text-white  float-right h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <svg xmlns="http://www.w3.org/2000/svg" className="left-arrow text-white  float-right h-6 w-6 shadow-sm" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7"  className="text-white" />
             </svg>
         </div>
