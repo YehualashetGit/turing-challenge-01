@@ -1,0 +1,18 @@
+.footer-header{
+    color: #141414;
+}
+.icon-brief{
+    width: 28px;
+    height: 25px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 0.6;
+
+}
+.icon-circle{
+    width: 91px;
+    height: 91px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #B9B9B9;
+    border-radius: 87px;
+    opacity: 1;
+}
